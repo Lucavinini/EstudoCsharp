@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCSharp", "HelloCSharp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variáveis", "Variáveis\Variáveis.csproj", "{B7FD2B24-663E-4E24-BB58-46523E6B28FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\InputOutput.csproj", "{9489256E-5DF9-449F-A8A7-CC423074A3A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{B7FD2B24-663E-4E24-BB58-46523E6B28FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7FD2B24-663E-4E24-BB58-46523E6B28FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7FD2B24-663E-4E24-BB58-46523E6B28FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9489256E-5DF9-449F-A8A7-CC423074A3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9489256E-5DF9-449F-A8A7-CC423074A3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9489256E-5DF9-449F-A8A7-CC423074A3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9489256E-5DF9-449F-A8A7-CC423074A3A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
