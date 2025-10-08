@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores", "Operadores\Operadores.csproj", "{18486EEA-DE4B-4AC1-8890-BE690AF962B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCondicional", "EstruturaCondicional\EstruturaCondicional.csproj", "{05F85104-403D-4ADE-9232-143C51DA111D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,13 @@ Global
 		{18486EEA-DE4B-4AC1-8890-BE690AF962B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18486EEA-DE4B-4AC1-8890-BE690AF962B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18486EEA-DE4B-4AC1-8890-BE690AF962B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8B15AC-7AF6-4A7B-B941-E96E515CAE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8B15AC-7AF6-4A7B-B941-E96E515CAE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8B15AC-7AF6-4A7B-B941-E96E515CAE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8B15AC-7AF6-4A7B-B941-E96E515CAE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F85104-403D-4ADE-9232-143C51DA111D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F85104-403D-4ADE-9232-143C51DA111D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F85104-403D-4ADE-9232-143C51DA111D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F85104-403D-4ADE-9232-143C51DA111D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

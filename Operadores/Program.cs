@@ -31,10 +31,18 @@ class Program
 
         x -= 1;
         Console.WriteLine(x);
-        
+
         x--;
 
         Console.WriteLine(x);
+
+        //Operadores Lógicos
+
+        // E &&
+
+        // Ou || 
+
+        // Negação !
 
 
     }
